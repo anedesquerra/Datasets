@@ -1,4 +1,4 @@
-date,temp_max,temp_min,rel_humedity,pressure,evaopration,sunshine,wind_speed,v_tension,dew point,temp_average
+date,temp_max,temp_min,rel_humedity,pressure,evaporation,sunshine,wind_speed,v_tension,dew point,temp_average
 2019/01/01,32.8,21.0,68,0.0,6.24,9.10,57,24.3,20.6,27.0
 2019/01/02,33.4,20.0,62,0.0,5.96,8.15,50,22.4,19.3,27.2
 2019/01/03,32.8,23.2,63,0.0,4.58,5.00,45,23.0,19.7,27.3
